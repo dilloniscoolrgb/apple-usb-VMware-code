@@ -7,4 +7,5 @@ download the file
 # step 2.
 move the file to the usb stick
 # step 3.
-(unfinished)
+open main, readmes, mainfiles, things to install or recover, VMware workstation full 25h2u1 25219725.exe
+# step 4.
