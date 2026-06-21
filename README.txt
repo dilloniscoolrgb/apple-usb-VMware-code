@@ -44,7 +44,7 @@ owner:
 Dillon
 
 version:
-whatever version i was using when i made this
+1 beta
 
 last updated:
 June 2026
