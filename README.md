@@ -1,4 +1,4 @@
-DONT DO THIS YET THIS IS A BETA
+# DONT DO THIS YET THIS IS A BETA
 requirments 6 core cpu 16 gigs of ram 256 gb usb stick
 # apple-usb-VMware-code
 visit https://mega.nz/folder/bmQHHaAI#Cp9VbDcEgvmlgO5jey8yEA to download
