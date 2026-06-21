@@ -1,0 +1,7 @@
+step 1. plug usb in
+step 2. download the specific installer for VMware in the install folder
+step 3. when it finishes open the install.bat in the install folder and in the VMware unlocker
+step 4. open VMware and open the MacOS VM
+OR 
+use the docs
+https://docs.google.com/document/d/19jfJWIfp_pfD3i2f8MF0-U92HsOGa7RDSR5MtFfcAG4/edit?usp=sharing
