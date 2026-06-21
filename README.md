@@ -2,6 +2,7 @@
 requirments amd 6 core cpu or higher, 16 gigs of ram or higher, 256 gb usb stick
 # apple-usb-VMware-code
 visit https://mega.nz/folder/bmQHHaAI#Cp9VbDcEgvmlgO5jey8yEA to download
+visit https://docs.google.com/document/d/19jfJWIfp_pfD3i2f8MF0-U92HsOGa7RDSR5MtFfcAG4/edit?usp=sharing for more
 # step 1.
 download the file
 # step 2.
