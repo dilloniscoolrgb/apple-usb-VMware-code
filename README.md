@@ -12,5 +12,4 @@ open main, readmes, mainfiles, things to install or recover, VMware workstation 
 # step 4. 
 go throgh the install prosess
 # step 5.
-open main, readmes, mainfiles, things to install or recover, VMware unlocker
-# 2nd RELEASE WILL HAVE THE REST OF THIS
+
