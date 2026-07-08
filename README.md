@@ -23,3 +23,4 @@ open up windows file explorer and COPY the files to the vm
 only supports windows 11
 macos will be in a upcoming update
 pls dont change anything it may nuke your build and void your support
+this is discontinued
